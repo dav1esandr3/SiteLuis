@@ -1,0 +1,11 @@
+.formulario{
+    width: 100%;
+}
+
+.bg-gradiente{
+    background: linear-gradient(55deg, #000000, #e65400,#000000);
+}
+.container{
+    border-radius: 100%;
+    
+}
